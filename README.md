@@ -1,8 +1,8 @@
 # Resources for DevDen
 
-## Learning Resources for Web Development. These are for the gaining basic understanding of Web Developemnt.
+### Learning Resources for Web Development. These are for gaining basic understanding of Web Developemnt.
 
-### https://web.dev/learn/
+#### https://web.dev/learn/
 
 ### Freecodecamp Playlist
 > https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88
