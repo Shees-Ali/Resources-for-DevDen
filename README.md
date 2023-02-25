@@ -24,6 +24,7 @@ For html/css:
 
 For JS:
 > https://youtu.be/jS4aFq5-91M
+> https://eloquentjavascript.net/
 
 For all three combined:
 > https://youtu.be/zJSY8tbf_ys
