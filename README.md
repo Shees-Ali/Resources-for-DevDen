@@ -12,8 +12,17 @@
 ### Freecodecamp courses
 > https://www.freecodecamp.org/learn/
 
+### FrontEnd Developer Road map ( to give you a rough idea of what is asked from a frontend developer )
+https://roadmap.sh/frontend
+
+### Must visit site has some insane showcases of what HTML and CSS are capable off 
+https://uiverse.io/all?page=1
+
 ### CheatSheet resources 
 https://htmlcheatsheet.com/
+
+Brilliant cheatsheet for a quick overview 
+>https://overapi.com/
 
 
 ### Short CSS tutorial:
@@ -22,8 +31,17 @@ https://htmlcheatsheet.com/
 > https://www.youtube.com/watch?v=BsDoLVMnmZs&feature=youtu.be
 
 ### Some Other Helpful Links
-For html/css:
+
+Links for Road Maps short tutorials etc.
+>https://www.showwcase.com/
+
+For HTML/CSS:
 > https://youtu.be/G3e-cpL7ofc
+
+For CSS only:
+> https://youtube.com/@KevinPowell
+
+> https://css-tricks.com/
 
 For JS:
 > https://youtu.be/jS4aFq5-91M
