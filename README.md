@@ -12,6 +12,9 @@
 ### Freecodecamp courses
 > https://www.freecodecamp.org/learn/
 
+### CheatSheet resources 
+https://htmlcheatsheet.com/
+
 
 ### Short CSS tutorial:
 > https://www.youtube.com/watch?v=u5-K_ua9sOw&feature=youtu.be
