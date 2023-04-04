@@ -1,4 +1,4 @@
-# Resources for DevDen
+# Resources for DevDen ( WEB )
 
 ### Learning Resources for Web Development. These are for gaining basic understanding of Web Developemnt.
 
