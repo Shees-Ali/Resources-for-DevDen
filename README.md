@@ -7,6 +7,9 @@
 ### Make sure to checkout this Repo:
 > https://github.com/Shees-Ali/Web-Dev-For-Beginners
 
+### PROJECT ODIN ( A open source project which has amazing courses from begineer to mid-level )
+https://www.theodinproject.com/
+
 ### Freecodecamp Playlist
 > https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88
 ### Freecodecamp courses
