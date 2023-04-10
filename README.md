@@ -38,6 +38,8 @@ Brilliant cheatsheet for a quick overview
 Links for Road Maps short tutorials etc.
 >https://www.showwcase.com/
 
+>https://webartdevelopers.com/blog/
+
 For HTML/CSS:
 > https://youtu.be/G3e-cpL7ofc
 
