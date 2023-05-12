@@ -16,6 +16,9 @@ https://roadmap.sh/frontend
 ### Must visit site has some insane showcases of what HTML and CSS are capable off 
 https://uiverse.io/all?page=1
 
+### A Brilliant Book for learning JavaScript for Web Dev.
+> https://eloquentjavascript.net/
+
 ### CheatSheet resources 
 https://htmlcheatsheet.com/
 
@@ -49,8 +52,6 @@ For CSS only:
 
 For JS:
 > https://youtu.be/jS4aFq5-91M
-
-> https://eloquentjavascript.net/
 
 For all three combined:
 > https://youtu.be/zJSY8tbf_ys
