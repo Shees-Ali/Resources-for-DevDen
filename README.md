@@ -10,11 +10,6 @@
 ### PROJECT ODIN ( A open source project which has amazing courses from begineer to mid-level )
 https://www.theodinproject.com/
 
-### Freecodecamp Playlist
-> https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88
-### Freecodecamp courses
-> https://www.freecodecamp.org/learn/
-
 ### FrontEnd Developer Road map ( to give you a rough idea of what is asked from a frontend developer )
 https://roadmap.sh/frontend
 
@@ -27,6 +22,10 @@ https://htmlcheatsheet.com/
 Brilliant cheatsheet for a quick overview 
 >https://overapi.com/
 
+### Freecodecamp Playlist
+> https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88
+### Freecodecamp courses
+> https://www.freecodecamp.org/learn/
 
 ### Short CSS tutorial:
 > https://www.youtube.com/watch?v=u5-K_ua9sOw&feature=youtu.be
