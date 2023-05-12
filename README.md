@@ -16,7 +16,7 @@ https://roadmap.sh/frontend
 ### Must visit site has some insane showcases of what HTML and CSS are capable off 
 https://uiverse.io/all?page=1
 
-### A Brilliant Book for learning JavaScript for Web Dev.
+### A Brilliant Book for learning JavaScript.
 > https://eloquentjavascript.net/
 
 ### CheatSheet resources 
