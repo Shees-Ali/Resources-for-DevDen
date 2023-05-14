@@ -10,7 +10,11 @@
 ### PROJECT ODIN ( A open source project which has amazing courses from begineer to mid-level )
 https://www.theodinproject.com/
 
-### FrontEnd Developer Road map ( to give you a rough idea of what is asked from a frontend developer )
+### Below are some Roadmaps for FrontEnd Development :
+## FrontEnd Beginner Roadmap 
+https://roadmap.sh/frontend?r=frontend-beginner
+
+## FrontEnd Developer Road map 
 https://roadmap.sh/frontend
 
 ### Must visit site has some insane showcases of what HTML and CSS are capable off 
