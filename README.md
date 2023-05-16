@@ -10,6 +10,11 @@
 ### PROJECT ODIN ( A open source project which has amazing courses from begineer to mid-level )
 https://www.theodinproject.com/
 
+### Below are a few links where you can find inspirations and some guidence on how you can approach building sites for your practice:
+> [https://github.com/Shees-Ali/Web-Development](https://keshavgbpecdelhi.github.io/Web-Development/)
+> https://frontendsprojects.com/projects
+> https://reactjsexample.com/
+
 ## Below are some Roadmaps for FrontEnd Development :
 ### FrontEnd Beginner Roadmap 
 https://roadmap.sh/frontend?r=frontend-beginner
